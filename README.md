@@ -51,7 +51,7 @@ Installed Packages:
 ```bash
 npm install express mongoose multer csv-parser express-validator morgan cors helmet express-rate-limit dotenv
 ```
-###🔐 Environment Configuration
+### Environment Configuration
 Create a .env file in the root directory:
 ```bash
 MONGO_URI=mongodb://localhost:27017/retail-pricing
@@ -67,9 +67,10 @@ Server runs on:
 http://localhost:3000
 ```
 
-##API Endpoints
+## API Endpoints
 
 Base URL:
 ```bash
 /api/pricing
 ```
+## Search Pricing Records
