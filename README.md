@@ -74,3 +74,11 @@ Base URL:
 /api/pricing
 ```
 ## Search Pricing Records
+GET /
+
+### Supports query parameters:
+
+### Parameter	  Description
+storeId	    Filter by store
+sku	        Filter by SKU
+date	      Filter by date
