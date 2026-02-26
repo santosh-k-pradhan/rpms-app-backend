@@ -102,3 +102,14 @@ http://localhost:5000/api/pricing?storeId=S005&sku=SKU1005
 ```
 <img width="1366" height="709" alt="image" src="https://github.com/user-attachments/assets/905d6f8d-3e05-4b72-b309-173b32f1ed84" />
 
+## POST endpoint to upload csv file
+```
+http://localhost:5000/api/pricing/upload
+```
+<img width="1406" height="625" alt="image" src="https://github.com/user-attachments/assets/697388b3-a21b-43e0-aa3a-922fc5862222" />
+
+## PUT endpoint to update the record
+```
+http://localhost:5000/api/pricing/699ffe69e9c665800b72c67d
+```
+<img width="1381" height="883" alt="image" src="https://github.com/user-attachments/assets/30a55821-71f7-4fb6-a1d7-48f5516dc85a" />
