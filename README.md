@@ -83,3 +83,22 @@ GET /
 | storeId   | Filter by store     |
 | sku       | Filter by SKU       |
 | date      | Filter by date      |
+
+## GET endpoint to fetch all records
+```
+http://localhost:5000/api/pricing
+```
+<img width="1369" height="605" alt="image" src="https://github.com/user-attachments/assets/834bc175-5a52-4118-8ffa-9e181e12311c" />
+
+## GET endpoint to fetch based on storeId
+```
+http://localhost:5000/api/pricing?storeId=S005
+```
+<img width="1361" height="695" alt="image" src="https://github.com/user-attachments/assets/04dd85b5-7647-4b69-b834-ca21e75797c6" />
+
+## GET endpoint to fetch based on storeId adn SKU
+```
+http://localhost:5000/api/pricing?storeId=S005&sku=SKU1005
+```
+<img width="1366" height="709" alt="image" src="https://github.com/user-attachments/assets/905d6f8d-3e05-4b72-b309-173b32f1ed84" />
+
