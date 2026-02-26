@@ -78,7 +78,8 @@ GET /
 
 ### Supports query parameters:
 
-### Parameter	  Description
-storeId	    Filter by store
-sku	        Filter by SKU
-date	      Filter by date
+| Parameter | Description |
+|-----------|---------------------|
+| storeId   | Filter by store     |
+| sku       | Filter by SKU       |
+| date      | Filter by date      |
